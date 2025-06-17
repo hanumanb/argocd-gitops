@@ -9,13 +9,13 @@ The repository is organized as follows:
 
 argocd-gitops/ </BR>
 ├── src/                      # Static content for NGINX  </BR>
-├── Dockerfile                # Builds the NGINX image
-├── k8s/
-│   ├── deployment.yaml       # Kubernetes deployment manifest
-│   └── service.yaml          # Kubernetes service manifest
-└── argocd-application.yaml   # Argo CD Application manifest
+├── Dockerfile                # Builds the NGINX image </BR>
+├── k8s/ </BR>
+│   ├── deployment.yaml       # Kubernetes deployment manifest </BR>
+│   └── service.yaml          # Kubernetes service manifest </BR>
+└── argocd-application.yaml   # Argo CD Application manifest </BR>
 
-
+</BR>
 
 <h2> Prerequisites</h2>
 Before deploying, ensure you have the following:
