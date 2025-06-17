@@ -7,8 +7,8 @@ This repository demonstrates a GitOps workflow for deploying a static NGINX webs
 The repository is organized as follows:
 
 
-argocd-gitops/
-├── src/                      # Static content for NGINX
+argocd-gitops/ \n
+├── src/                      # Static content for NGINX \n
 ├── Dockerfile                # Builds the NGINX image
 ├── k8s/
 │   ├── deployment.yaml       # Kubernetes deployment manifest
