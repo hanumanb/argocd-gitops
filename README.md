@@ -43,7 +43,7 @@ docker build -t yourusername/nginx-website:latest .
 docker push yourusername/nginx-website:latest
 Replace yourusername with your Docker Hub username.
 
-<h2> Apply Kubernetes Manifests <h2>
+<h2> Apply Kubernetes Manifests </h2>
 bash
 Copy
 Edit
