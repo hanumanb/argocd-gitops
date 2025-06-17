@@ -1,7 +1,9 @@
 Argocd-gitops
+
 This repository demonstrates a GitOps workflow for deploying a static NGINX website using Argo CD and Kubernetes. By leveraging declarative configurations stored in Git, this setup ensures consistent and automated deployments.
 
 🧩 Project Structure
+
 The repository is organized as follows:
 
 graphql
